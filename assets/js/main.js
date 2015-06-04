@@ -4,7 +4,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-<script type="text/javascript">
 
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -57,7 +56,7 @@ compare(userChoice, computerChoice);
 window.alert("And you're still really gay");
 
 
-</script>
+
 
 (function($) {
 
